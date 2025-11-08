@@ -1,6 +1,6 @@
 # Data Science Society
 
-<a href="https://dss-bu.vercel.app/"><img src="dss_banner.svg" alt="Data Science Society Banner" style="width: 100%;"></a>
+<a href="https://dss-bu.vercel.app/"><img src="dss_banner.png" alt="Data Science Society Banner" style="width: 100%;"></a>
 
 [Data Science Society](https://dss-bu.vercel.app/) is a friendly community based at Bennett University, supporting and encouraging students to learn and contribute to open source. As open source is now a critical part in nearly everything we do, understanding the processes of open source is really important. Thanks for checking us out!
 
